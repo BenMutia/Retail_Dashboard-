@@ -1,2 +1,2 @@
-# Retail_Dashboard
-Dashboard for retail data - GitHub practice
+# KRA_Dataset_Sample
+Data for KRA Sample from week 2 - GitHub practice
